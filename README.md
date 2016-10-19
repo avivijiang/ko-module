@@ -6,4 +6,4 @@ npm install
 然后再
 bower install
 
-dist目录下也可以安装
+test目录下也可以安装
